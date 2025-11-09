@@ -1,6 +1,6 @@
 # Ellie Wang  
 
-**Email:**ekw002@ucsd.edu
+**Email:** ekw002@ucsd.edu
 
 **Section:** B01
 
